@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 18px;
+    justify-content: space-between;
+}
+h1{
+    padding-bottom: 1rem;
+}
+h2{
+    padding-bottom: 1rem;
+}
